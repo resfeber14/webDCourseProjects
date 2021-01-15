@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to bottom,#780206,#061161);
+
+    text-align: center;
+}
+.container{
+    margin:auto;
+}
+.dice{
+    display: inline-block;
+    margin:3%;
+    font-family: 'Overlock', cursive;
+
+
+}
+h1{
+    color:mediumorchid;
+    font-family: 'Pattaya', sans-serif;
+    font-size:10rem;
+    margin: 3%;
+}
+.p1{
+    font-size:2rem;
+    font-family: 'Philosopher', sans-serif;
+
+}
