@@ -74,7 +74,7 @@ a:hover{
 }
 .imm{
     width:250px;
-    height: 250px;
+    height: 500px;
 }
 .imm1{
     width:20%;
@@ -129,7 +129,6 @@ a:hover{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-
   .hello{
       width: 2%;
       height: 6.8%;
