@@ -1,17 +1,14 @@
 h1{
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
 
-    font-size: 4rem;
+    font-size: 3.5rem;
     line-height: 1.5;
 }
-h2{
-    font-family: "Montserrat-Bold";
-    font-size: 3rem;
-    line-height: 1.5;
-}
+
 h3{
-    font-size:2.5rem;
-    width: 100%;
+    
+    font-size:1.5rem;
+    
     margin: auto;
 
 }
@@ -21,7 +18,7 @@ h3{
 }
 
 body{
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
 }
 p{
     color: #8f8f8f;
@@ -40,6 +37,13 @@ p{
 .nav-item{
     padding: 0 18px;
 }
+.icon{
+    color:#ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:#ff4c68;
+}
 .download-button{
     margin:5% 3% 5% 0%;
 }
@@ -55,10 +59,10 @@ p{
     padding:5%;
 }
 #features{
-    padding:7% 15%;
+    padding:7% 14.5%;
     background-color: #fff;
     position: relative;
-    width: 100%;
+    
 }
 #press{
     background-color:#ef8172;
